@@ -15,7 +15,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <start-class>
-            guru.framework.sfgpetclinic.SfgPetClinic1Application
+            guru.springframework.sfgpetclinic.SfgPetClinic1Application
         </start-class>
     </properties>
 
