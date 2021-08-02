@@ -1,4 +1,4 @@
-package guru.framework.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 
 /**
  * @author cmchenming13@gmail.com
