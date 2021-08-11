@@ -4,7 +4,7 @@ package guru.springframework.sfgpetclinic.model;
  * @author cmchenming13@gmail.com
  * @date 2021/8/11 22:10
  */
-public class Speciality extends BaseEntity{
+public class Specialty extends BaseEntity{
 
     private String description;
 
